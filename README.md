@@ -1,1 +1,1 @@
-# lifelongdl.github.io
+# life-long-nlp.github.io
