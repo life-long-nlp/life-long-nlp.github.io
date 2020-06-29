@@ -8,7 +8,11 @@ The workshop will be collocated with AACL 2020.
 
 ## Important dates 
 
-TBA
+- July 3, 2020 - Call for papers released
+- September 18, 2020 – Paper submissions due
+- September 21 - October 9, 2020 - Review period
+- October 23, 2020 – Notification
+- November 6, 2020 - Camera-ready due*
  
 ## Workshop description
 
