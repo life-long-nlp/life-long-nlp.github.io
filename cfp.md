@@ -26,9 +26,9 @@ Relevant topics include (but are not limited to):
 
 ## Submission Guideline  
 
-Please submit your paper using Softconf: https://www.softconf.com/aacl-ijcnlp2020/LifeLongNLP/user/
+Please submit your paper using Softconf: [https://www.softconf.com/aacl-ijcnlp2020/LifeLongNLP/user/](https://www.softconf.com/aacl-ijcnlp2020/LifeLongNLP/user/)
 
-**Format**: Submissions must be in PDF format, anonymized for review, written in English and follow the AACL2020 formatting requirements (http://aacl2020.org/calls/papers/#paper-submission-and-templates). 
+**Format**: Submissions must be in PDF format, anonymized for review, written in English and follow the AACL2020 formatting requirements [http://aacl2020.org/calls/papers/#paper-submission-and-templates](http://aacl2020.org/calls/papers/#paper-submission-and-templates). 
 
 **Length** : Submissions consist of up to eight pages of content. There is no limit on the number of pages for references. There is no extra space for appendices. There is no explicit short paper track, but you should feel free to submit your paper regardless of its length. Reviewers will be instructed not to penalize papers for being short.
 

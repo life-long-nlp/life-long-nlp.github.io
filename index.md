@@ -4,7 +4,7 @@ layout: default
 
 ## Venue
 
-The workshop will be collocated with AACL 2020.
+The workshop will be collocated with [AACL 2020](http://aacl2020.org/).
 
 ## Important dates 
 
@@ -65,13 +65,19 @@ TBA
 
 TBA
 
-## Paper submission 
+## Submission Guideline  
 
-TBA
+Please submit your paper using Softconf: [https://www.softconf.com/aacl-ijcnlp2020/LifeLongNLP/user/](https://www.softconf.com/aacl-ijcnlp2020/LifeLongNLP/user/)
 
-## Dual submissions
-TBA
+**Format**: Submissions must be in PDF format, anonymized for review, written in English and follow the AACL2020 formatting requirements [http://aacl2020.org/calls/papers/#paper-submission-and-templates](http://aacl2020.org/calls/papers/#paper-submission-and-templates). 
 
+**Length** : Submissions consist of up to eight pages of content. There is no limit on the number of pages for references. There is no extra space for appendices. There is no explicit short paper track, but you should feel free to submit your paper regardless of its length. Reviewers will be instructed not to penalize papers for being short.
+
+**Dual Submission**: Authors can make submissions that are also under review at other venues, provided it does not violate the policy at those venues. We do NOT require submissions to follow an anonymity period.
+
+## Contact 
+
+<life-long-nlp@googlegroups.com>
 ## Program committee
 - Jan Niehues, Maastricht University
 - Elizabeth Salesky,  CMU 
@@ -89,7 +95,7 @@ TBA
 - Jervis Pinto, Electronic Arts
 - Harsha Sundar, Alexa Speech
 
- 
+
 
 ## Anti-Harassment Policy
 LifeLongNLP 2020 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
