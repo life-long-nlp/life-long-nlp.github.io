@@ -32,7 +32,7 @@ Please submit your paper using Softconf: [https://www.softconf.com/aacl-ijcnlp20
 
 **Length** : Submissions consist of up to eight pages of content. There is no limit on the number of pages for references. There is no extra space for appendices. There is no explicit short paper track, but you should feel free to submit your paper regardless of its length. Reviewers will be instructed not to penalize papers for being short.
 
-**Dual Submission**: Authors can make submissions that are also under review at other venues, provided it does not violate the policy at those venues. We do NOT require submissions to follow an anonymity period.
+**Dual Submission**: We do not allow dual submissions. Please refer to AACL guidelines. 
 
 ## Contact 
 
