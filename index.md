@@ -84,16 +84,20 @@ Please submit your paper using Softconf: [https://www.softconf.com/aacl-ijcnlp20
 - Christian Federmann, Microsoft
 - Abhyuday Jagannatha, UMass Amherst
 - Beat Gfeller, Google Research
+- Ankur Gandhe, Alexa Speech
 - Hassan Rom, Google Research
 - Matthias Sperber, Apple
 - John Lalor, University of Notre Dame
-- Ankur Gandhe, Alexa Speech
 - Teresa Herrmann, Echobot Media Technologies GmbH/Karlsruhe Institute of Technology
 - Varun Nagaraja, Alexa Speech
 - Nick Ruiz, Interactions LLC
 - Krishna C. Puvvada, Alexa Speech
 - Jervis Pinto, Electronic Arts
 - Harsha Sundar, Alexa Speech
+- Stan Peshterliev, Facebook
+- Abhishek Sethi, Google
+ 
+
 
 
 
