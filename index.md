@@ -96,7 +96,7 @@ Please submit your paper using Softconf: [https://www.softconf.com/aacl-ijcnlp20
 - Harsha Sundar, Alexa Speech
 - Stan Peshterliev, Facebook
 - Abhishek Sethi, Google
- 
+- Aditya Siddhant, Google 
 
 
 
