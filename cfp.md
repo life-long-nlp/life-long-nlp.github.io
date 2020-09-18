@@ -19,7 +19,7 @@ Relevant topics include (but are not limited to):
 
 ## Important Dates 
 
-- Paper submission due: September 18, 2020 
+- Paper submission due: October 5, 2020 (Extended)
 - Notification of acceptance: October 23, 2020 
 - Camera-ready Paper Due: November 6, 2020 
 - Workshop date: (TBA) 
