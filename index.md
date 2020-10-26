@@ -11,7 +11,7 @@ The workshop will be collocated with [AACL 2020](http://aacl2020.org/).
 - July 3, 2020 - Call for papers released
 - October 5, 2020 (Extended) – Paper submissions due
 - September 21 - October 9, 2020 - Review period
-- October 23, 2020 – Notification
+- October 26, 2020 – Notification
 - November 6, 2020 - Camera-ready due*
  
 ## Workshop description
