@@ -12,7 +12,8 @@ The workshop will be collocated with [AACL 2020](http://aacl2020.org/).
 - October 5, 2020 (Extended) – Paper submissions due
 - September 21 - October 9, 2020 - Review period
 - October 28, 2020 – Notification
-- November 6, 2020 - Camera-ready due*
+- November 6, 2020 - Camera-ready due
+- **December 7 (20:30-00:00 GMT+8 / 07:30-11:00 EST) [Join Zoom Meeting] **
  
 ## Workshop description
 
@@ -59,11 +60,15 @@ The call for papers text is available [here](http://life-long-nlp.github.io/cfp)
 
 ## Workshop program 
 
-TBA
-
-## Invited speakers
-
-TBA
+**Below time slots are in GMT+8** 
+Dec 4, 20:30-20:30 	Opening remarks 	
+Dec 4, 21:15-21:30 	invited talk - Haidar Khan (Alexa AI)
+Dec 4, 21:30-22:00 	"Paper 1: Deep Active Learning for Sequence Labeling Based on Diversity and Uncertainty in Gradient" - Yekyung Kim
+Dec 4, 22:00-22:30 	"Paper 2: Supervised Adaptation of Sequence-toSequence Speech Recognition Systems using BatchWeighting" -	Christian Huber, Juan Hussain, Tuan-Nam Nguyen, Kaihang Song, Sebastian Stüker and Alexander Waibel
+Dec 4, 22:30-22:45 	Break 	
+Dec 4, 23:45-23:30 	Invited talk -	Hadrien Glaude (Alexa AI)
+Dec 4, 23:30-24:00 	"Paper 3: Data Augmentation using Pre-trained Transformer Models” -	Varun Kumar, Ashutosh Choudhary and Eunah Cho
+Dec 4, 24:00-- 	Closing remarks 	
 
 ## Submission Guideline  
 
